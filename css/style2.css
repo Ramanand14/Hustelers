@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+body{
+    overflow-x: hidden;
+    background-color: antiquewhite;
+}
+
+.header {
+    padding: 30px;
+    background: #5630df;
+  }
+
+
+.container{
+    float: left;
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 4%;
+    height: 60%;
+}
+
+.box1{
+    float: left;
+    border-radius: 24px;
+    background-color: rgba(245, 135, 11, 0.86);
+    width: 20%;
+    height: 260px;
+    margin-left: 8%;
+}
+
+.container1{
+    float: left;
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 4%;
+    height: 60%;
+}
+
+img{
+    padding: 16% 10% 2% 20%;
+    height: 60%;
+    width: 60%;
+}
+
+.text{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
