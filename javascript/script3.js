@@ -7,19 +7,19 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Agra";
+        document.getElementById("content1").innerHTML = "Agra is one of the best places to visit in Uttar Pradesh. Famous across the world for housing the Taj Mahal, the city also takes pride in its other monuments like Agra Fort and Fatehpur Sikri, which are also UNESCO World Heritage Sites. Situated on the banks of Yamuna, you will be able to see Mughal architecture, art and culture in various parts of the city.";
+        document.getElementById("img1").src = "https://cdn.theculturetrip.com/wp-content/uploads/2018/04/feature-image-2.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Varanasi";
+        document.getElementById("content2").innerHTML = "Varanasi is one of the holy places of the Hindu community. The oldest temple here is Kashi Vishwanath which you must visit. The main deity worshipped in this temple is Lord Shiva, and the temple has a gold plating of 800 kg on its tower. The other temples that you will find in the complex are Kaalbhairav, Virupaksh Gauri, Vishnu, Vinayaka and Avimukteshwara. Varanasi is also a significant destination for the Buddhists as the Gautam Buddha preached his first sermon in this city.";
+        document.getElementById("img2").src = "https://lp-cms-production.imgix.net/2019-06/GettyImages-475540390_medium.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Sarnath";
+        document.getElementById("content3").innerHTML = "Sarnath is an amazing place for the history buffs. You can see thousand year old Buddhist stupas and museums here. There are many excavated ancient sites in Sarnath. The architecture of the temples and monasteries here are worth appreciating. Some of the main attractions in this city include Dharma Stupa constructed by Emperor Ashoka,  Ashoka’s Pillar, to name a few.";
+        document.getElementById("img3").src = "https://mytriphack.com/wp-content/uploads/2018/08/Sarnath-Stupa-and-ruins.jpg";
         
     } else if (category == "Food") {
        /*set heading of page*/
@@ -123,20 +123,20 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = " Ajanta and Ellora Caves";
+        document.getElementById("content1").innerHTML = "Ajanta and Ellora caves are considered to be one of the most significant historical places in Maharashtra owing to the magnificent paintings of Ajanta and well-carved sculptures of Ellora. The rock-cut caves containing carvings are the finest example of Indian paintings and sculpture. They are a must-visit historical place in Maharashtra.";
+        document.getElementById("img1").src = "https://www.holidify.com/images/tooltipImages/AJANTA-AND-ELLORA-CAVES.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Gateway of India, Mumbai";
+        document.getElementById("content2").innerHTML = "The Gateway of India is, without doubt, one of the most popular historical places in Maharashtra. Sitting proudly on the Apollo Bunder, it overlooks the Arabian Sea. It is one of the defining monuments of the city of Mumbai and was built in the year 1924. The construction was undertaken by the famous architect George Wittet, to commemorate the visit of King George V and Queen Mary to Mumbai. The imposing structure of the monument is a beautiful confluence of Indian, Arabic and Western architecture and has become a popular tourist hub in the city.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/cmsuploads/compressed/1030_20190404091854.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Aga Khan Palace, Pune";
+        document.getElementById("content3").innerHTML = "The mighty edifice of Aga Khan Palace is situated in Pune and was built by Sultan Muhammed Shah Aga Khan III in the year 1892. It is one of the most important historical places in Maharashtra and has been instrumental in many defining moments of India's independence. Aga Khan Palace is well known both for its architectural excellence as well as its historical significance. Spread over a vast land of 19 acres, the palace is now the headquarters of the Gandhi National Memorial society. Here, making khadi is still one of the prime activities.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/attr_square/3297.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -241,19 +241,19 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Nalanda";
+        document.getElementById("content1").innerHTML = "The most popular Mahavihara of the ancient times, a significant Buddhist seat of academic excellence and a modest pilgrim center, all wrapped in a wisp of spirituality, Nalanda continues to be an equally enriching historical place in Bihar in the present. It offers vibrant substance of spirituality, history, culture, architecture, and tourism.";
+        document.getElementById("img1").src = "https://www.holidify.com/images/tooltipImages/NALANDA.jpg;
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Vaishali, Bihar - World famous historical place in Bihar";
+        document.getElementById("content2").innerHTML = "Located in the interiors of Bihar, Vaishali is a small district which is also a revered Hindu, Buddhist and Jain worshipping site. It is the city where Lord Mahavir was born. Considered as the first republic of the world, Vaishali is believed to have been named after King Vishal, from the time of Mahabharat and is a famous historical place in Bihar. It is also the city where Buddha delivered his last sermon. Surrounded by groves of mango and banana and extensive rice field, it is now a part of Trihut division of Bihar. The village is an important religious and historical place in Bihar and is flocked by tourists year in and year out";
+        document.getElementById("img2").src = "https://www.holidify.com/images/tooltipImages/VAISHALI.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = ". Bodh Gaya";
+        document.getElementById("content3").innerHTML = "One of the most important pilgrimage sites for Buddhists, Bodhgaya is a village in the state of Bihar. It was here under the Bodhi tree that Gautama Buddha attained enlightenment. The historical place in Bihar is bustling with pilgrims all through the year who come to pay their homage in the monasteries, shrines and temples. It also attracts tourists from India and abroad owing to its magnificent Buddha statue, the Mahabodhi Temple and the Bodhi tree.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/tooltipImages/BODH.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -358,19 +358,19 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = " Kolkata";
+        document.getElementById("content1").innerHTML = "Kolkata is the capital of West Bengal and also referred as the culture capital of the country. The city will offer you numerous tourist attractions which will still give you historical vibes. You can see British architecture in many of the buildings in this city. Some of the famous historical tourist attractions in Kolkata are Victoria Memorial, Fort William, Howrah Bridge, Belur Math, Marble Palace, Tagore’s House, Indian Museum, Birla Planetarium, Princep Ghat, Writers Building, Town Hall, Nizam Palace, etc. Many of the attractions will charge you an entry fee but at very minimal price.";
+        document.getElementById("img1").src = "https://www.revv.co.in/blogs/wp-content/uploads/2020/07/kolkata-1024x683.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Bishnupur";
+        document.getElementById("content2").innerHTML = "Bishnupur is also known for having historical importance in the state. The Terracotta temples here will take you to the days of yesteryears. The historical places that you must explore in Bishnupur include Rasmancha, Jorbangla Temple, Madanmohan Temple, Dalmadal Kamal Canon, and Radhe Govind Temple.";
+        document.getElementById("img2").src = "https://www.revv.co.in/blogs/wp-content/uploads/2020/07/Bishnupur.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Kalimpong";
+        document.getElementById("content3").innerHTML = "A beautiful hill station in North Bengal that remains surrounded by green mountains, which get blanketed by snow during the winters. The hill station is small and you can cover the attractions in a just a day. However, do not forget visiting Morgan House in Kalimpong, an old British bungalow. The bungalow exhibits authentic British architecture and one of the oldest buildings in the town. It has now been turned into a tourist lodge and taken care of by the West Bengal Tourist Development Corporation.";
+        document.getElementById("img3").src = "https://www.revv.co.in/blogs/wp-content/uploads/2020/07/Kalimpong-1-1024x683.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -475,19 +475,19 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Khajuraho";
+        document.getElementById("content1").innerHTML = "Khajuraho is known around the world for its stunning temples adorned by erotic and sensuous carvings. A small historical place in Madhya Pradesh located in the Bundelkhand region in Madhya Pradesh, Khajuraho is a brilliant example of Indian architecture and its culture back in the medieval period. The architecture of these Hindu and Jain temples depict the innocent form of love, the carvings on the walls display passion in the most erotic yet aesthetic ways.";
+        document.getElementById("img1").src = "https://www.holidify.com/images/tooltipImages/KHAJURAHO.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Sanchi Stupa, Bhopal";
+        document.getElementById("content2").innerHTML = "56 kms north-west of Bhopal city lies the historical architecture Sanchi Stupa, a UNESCO world heritage site since 1989. It's home to the relics of Buddha and his followers. Built by the Mauryan emperor Ashoka in the 3rd century BCE; it is a remarkable specimen of Buddhist art and architecture. Sanchi's uniqueness lies in the fact that Buddha isn't represented by figures but through symbols.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/cmsuploads/compressed/sanchistupa_20180219185128.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = " Gwalior Fort, Gwalior";
+        document.getElementById("content3").innerHTML = "eferred to as 'the pearl amongst fortresses in India' by Mughal emperor Babur, the Gwalior Fort is one of the most impenetrable fortresses located in the entire northern and southern India and is a place you definitely must visit. Situated on the top of a vast rocky mountain near Gwalior in Madhya Pradesh in central India, this imposing structure dominates the entire city of Gwalior. ";
+        document.getElementById("img3").src = "https://www.holidify.com/images/cmsuploads/square/attr_1616_20190226140417jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -591,20 +591,20 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Kanchipuram";
+        document.getElementById("content1").innerHTML = "On the banks of Vegavathi river lies this beautiful city of Kanchi which has been ruled by all the major dynasties of Tamil Nadu in past. It was also center of education and religious center of education for Jainism and Buddhism. It is also one of the seven Pilgrimage site in Hinduism. It is also famous for its Silk-weaving industry. Here, visitors can buy silk at cheap rates.";
+        document.getElementById("img1").src = "https://blog.weekendthrill.com/wp-content/uploads/2018/04/042718_0455_Top10Histor1.png";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Mahabalipuram";
+        document.getElementById("content2").innerHTML = "This small town in Tamil Nadu is famous for its stone carvings. These structures were made using typical South Indian architecture and are the oldest of their type. Mostly, the structures are made out of granite rocks. This site has 400 ancient monuments and temples of different types. The architecture varies according to the time they were built in and it’s interesting to study.";
+        document.getElementById("img2").src = "https://blog.weekendthrill.com/wp-content/uploads/2018/04/042718_0455_Top10Histor2.png";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Chidambaram";
+        document.getElementById("content3").innerHTML = "It is located in Cuddalore district of Tamil Nadu. This antique town has been ruled by various kings in the past. This town is specially famous for its Thillai Nataraja temple and Chariot festival held twice a year.The place has many mythological beliefs related to Lord Shiva. It is believed that the Lord performed his Tandava dance here when he was enraged by a group of sages as they got distracted by him and his partner Mohini. The Thillai Nataraja temple is a famous tourist spot here";
+        document.getElementById("img3").src = "https://blog.weekendthrill.com/wp-content/uploads/2018/04/042718_0455_Top10Histor3.png";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -708,20 +708,20 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Bada Bagh";
+        document.getElementById("content1").innerHTML = "Bada Bagh, precisely called ‘Big Garden’ is located some 6kms off from the Jaisalmer city. First recognized by Maharawal Jai Singh in the 16th century and later operated by his son Lunakaran, Bada Bagh houses incredible cenotaphs (Chhatris) of Rajput kings of 6 centuries. Three spots, which are a dam, a garden and a tank, are the most prominent attractions of this historical site";
+        document.getElementById("img1").src = "https://blog.weekendthrill.com/wp-content/uploads/2018/04/042718_0459_10Historica1.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Kuldhara Village";
+        document.getElementById("content2").innerHTML = "Amidst the deserts and sand dunes, Rajasthan houses a cursed heritage of Kuldhara village, which was cursed and abandoned by Paliwal Brahmins long ago. Though inhabited, the village appears to be a planned, well-settled place with temples, houses and streets of ancient architectural style. Locals tell that anyone who tries to stay in the village would suffer death.";
+        document.getElementById("img2").src = "https://blog.weekendthrill.com/wp-content/uploads/2018/04/042718_0459_10Historica2.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Jaswant Thada";
+        document.getElementById("content3").innerHTML = "The Jaswant Thana is a cenotaph located in Jodhpur, in the Indian state of Rajasthan. It was built by Maharaja Sardar Singh of Jodhpur State in 1899 in memory of his father, Maharaja Jaswant Singh II, and serves as the cremation ground for the royal family of Marwar.The mausoleum is built out of intricately carved sheets of marble. These sheets are extremely thin and polished so that they emit a warm glow when illuminated by the sun.";
+        document.getElementById("img3").src = "https://blog.weekendthrill.com/wp-content/uploads/2018/04/042718_0459_10Historica3.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -825,20 +825,21 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Hampi-City Of Ruins";
+        document.getElementById("content1").innerHTML = "Also called as the ‘City of Ruins’, Hampi is one of the most famous historical places in Karnataka under UNESCO. The city is known for its ancient temples and monuments that date back to a thousand years. It has been an important seat in the history of Karnataka and has around 500 ancient temples; archaeological monuments; treasury building; bastions. What makes this place a famous backpacker’s delight is its hippie vibe along with vibrant street markets abound with handcrafts and souvenirs. ";
+        document.getElementById("img1").src = "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/09/Hampi.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = " Mysore – City Of Palaces";
+        document.getElementById("content2").innerHTML = "Mysore has been one of the most iconic places in the history of Karnataka as it used to be the home for the Wodeyar rulers for seven centuries. It is visited by more than 2.5 million tourists every year. That’s not all. Mysore has myriad attractions for you to explore like Lalitha Mahal, Jagmohan Palace, Brindavan Gardens, and Mysore Zoo. You could also go shopping in the city and buy famous souvenirs like Khadi cotton, incense sticks, sandalwood products, etc. Do not forget to try the world-famous Mysore Pak on your visit.";
+        document.getElementById("img2").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2019/09/Mysore.jpeg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Bijapur – Biggest Domes In India";
+        document.getElementById("content3").innerHTML = "Home to the world-famous Gol Gumbaz or Gol Gummata, Bijapur is a must-visit historical place in North Karnataka. It is the mausoleum of Mohammed Adil Shah with a big circular domethat imparts this city its name. Gol Gumbaz is a single mammoth structure and is one of the biggest domes in India. The city houses numerous prominent historical monuments of Karnataka. Shivagiri, Jama Masjid and Bara Kaman are some of the prominent landmarks to explore in Bijapur.";
+        document.getElementById("img3").src = "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/07/Bijapur-in-Karnataka.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -942,20 +943,21 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Rani ki vav";
+        document.getElementById("content1").innerHTML = "Also known as Queen’s Stepwell, the Rani ki vav is a UNESCO World Heritage Site that was constructed in the 11th century as a memorial to King Bhimdev I (of the Solanki dynasty) by his wife, Queen Udayamati. With a length of 64 metres and depth of 27 metres, complete with pillared multi-storey pavilions and sculptured panels, this historical site is an engineering marvel to behold. The steps of the stepwell are richly carved with the images of various gods and goddesses, mostly dedicated to Lord Vishnu and his forms. The carvings on the side walls also have depictions of apsaras (celestial women).";
+        document.getElementById("img1").src = "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2018/04/rani-ki-vav-1.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Laxmi Vilas Palace";
+        document.getElementById("content2").innerHTML = "Spread across 500 acres, the Laxmi Vilas Palace serves as an official residence of the royal family of Vadodara, the Gaekwads. Constructed over 12 years, this palace is four times the size of the spectacular Buckingham Palace, which makes it the largest private dwelling in the world. Combining Hindu, Mughal and Gothic architectural styles, the palace features a banquet and a museum showcasing paintings and artefacts from across the world. After exploring the interiors, you can take a stroll through the lush manicured gardens and even engage in a game of golf at the 10-hole golf course within the compound.";
+        document.getElementById("img2").src = "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2017/09/laxmi-vilas-palace.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Mahabat Maqbara";
+        document.getElementById("content3").innerHTML = "Revered and majestic, Mahabat Maqbara, otherwise known as Mausoleum of Bahaduddinbhai Hasainbhai, is the most visited historical site in Junagarh, largely because of its splendid architecture, which is a fusion of Gothic and Indo-Islamic influences. Established in the late 19th century, it features winding staircases surrounding the four minarets, elaborate stone carvings, silver-embellished portals, intricately designed arches, and an onion-shaped dome.";
+        document.getElementById("img3").src = "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2018/04/mahabat-maqbara.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -1059,20 +1061,20 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+         /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Kurnool";
+        document.getElementById("content1").innerHTML = "A place of much historical value with beautiful surrounding areas, Kurnool, is a small town in Andhra Pradesh where much of history left its imprints.";
+        document.getElementById("img1").src = "https://www.holidify.com/images/tooltipImages/KURNOOL.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Vijayawada";
+        document.getElementById("content2").innerHTML = "With scrumptious fruits, sensational sweets and scenic marvels, Vijayawada literally translates to 'The Place of Victory'.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/bgImages/VIJAYAWADA.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Amaravathi";
+        document.getElementById("content3").innerHTML = "Amaravathi is a small town located on the banks of the River Krishna in the Guntur district of Andhra Pradesh. It serves as quiet a familiar name for the Buddhists in India and is a prime hub for pilgrimage and sightseeing for tourists. Thus, Amaravathi is also called the Abode of God.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/tooltipImages/AMARAVATHI.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -1177,19 +1179,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Sun Temple, Konark";
+        document.getElementById("content1").innerHTML = "Sun Temple, Konark is one of the famous monuments in Odisha. Built in the shape of a giant chariot, the temple is dedicated to Sun God. While you are here, you can also visit the archeological museum located inside the temple complex. The temple is believed to be more than 2,000 years old. However, it is well-maintained and you can still admire the architecture and sculptures. There is an entry fee to be paid to enter the temple.";
+        document.getElementById("img1").src = "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/25/w1200X800/Konark_Sun_temple.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Sri Jagannath Puri Temple, Puri";
+        document.getElementById("content2").innerHTML = "Puri is majorly known for Sri Jagannath Puri Temple. It was King Indradyumna who built the famous temple in the 11th century. It is one of the historical places in Odisha which is frequented by millions of devotees as well as tourists all round the year. While you are in the temple, you can also see the beautiful and unique Oriya architecture. You can also try visiting the temple during Ratha Yatra.";
+        document.getElementById("img2").src = "https://www.revv.co.in/blogs/wp-content/uploads/2020/07/Sri-Jagannath-Puri-Temple-Puri.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Dhauli, Bhubaneswar";
+        document.getElementById("content3").innerHTML = "If you have interest in history, you surely know the importance of Dhauli and its past. Dhauli is the place where Kalinga War took place in the 3rd century BC between Kalinga kingdom and the Mauryan Empire led by Great Ashoka. It was one of the most intense wars in the history of the country. The war also changed Mauryan King Ashoka, after which he took Buddhism. You will also be able to see several edicts of King Ashoka in this city. ";
+        document.getElementById("img3").src = "https://www.revv.co.in/blogs/wp-content/uploads/2020/07/Dhauli-Bhubaneswar.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -1294,19 +1297,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = ". Golconda Fort";
+        document.getElementById("content1").innerHTML = "Situated in the Western part of the beautiful city of Hyderabad at a distance of approximately 9 km from Hussain Sagar Lake, the Golconda fort is spread over an area of three square kilometres which is 4.8 kilometres in length. This mighty fort falls in the list of the most humongous fortresses of India. One interesting phenomenon observed at the Golconda Fort is that if a person standing at a certain point near the dome entrance claps his hands, it can be heard at the hilltop pavilion which lies at a distance of about one kilometre.";
+        document.getElementById("img1").src = "https://www.holidify.com/images/cmsuploads/square/attr_1565_20180806200940.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Warangal Fort, Warangal";
+        document.getElementById("content2").innerHTML = "A prominent landmark of the Telangana state and an apt example of architectural excellence and historical richness, the Warangal fort is famous historical place in Telangana. The city is also known as Oru Kallu, which means 'a single stone'. Locals believe the city was built on a single rock in the medieval era. Sprawlingly spread across a stretch of 19 km between Warangal Hanamkonda, this 12th-century fort is a prominent historical attraction in Telangana. Every year thousands of enthusiastic tourists flock in to witness this historical places in Telangana.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/cmsuploads/square/attr_3943.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Charminar, Hyderabad";
+        document.getElementById("content3").innerHTML = "An identifying feature of the city of Hyderabad, Charminar is the most prominent landmark located right in the heart of the city. This historical place in Telangana was erected by Quli Qutub Shah to signify the founding of Hyderabad. As is evident from the structure, it was so named as it consists of four minarets. Although it lies right in the centre of the city with traffic and crowds milling all about it, Charminar certainly manages to hold the gaze. It is also famous for the market that sprawls around it and is called 'Laad' or 'Chudi' Bazaar.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/cmsuploads/square/attr_wiki_108_20190227115314.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -1411,19 +1415,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Mattancherry Palace, Kochi";
+        document.getElementById("content1").innerHTML = "Popularly known as the Dutch Palace, the Mattancherry Palace is a Portuguese palace in Mattancherry, Kochi. The Mattancherry Palace was originally built by the Portuguese who later gifted it to the King of Cochin in 1555. It is now a museum displaying paraphernalia belonging to the rajas of Kochi. Visit this destination to learn about the fascinating history of Kerala through the medium of irreplaceable artefacts and embellishments.";
+        document.getElementById("img1").src = "https://www.holidify.com/images/cmsuploads/compressed/attr_1101_20190412091253.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Bekal Fort, Bekal";
+        document.getElementById("content2").innerHTML = "Built almost 300 years ago, Bekal Fort is considered one of the largest and most preserved forts in Kerala. It is surrounded by a beautiful beach offering an enchanting view of the Arabian Sea from its high observation tower where once the cannons were placed. The fort was featured in the popular A R Rahman song ' Tu hi re'.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/cmsuploads/square/attr_1320.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Edakkal Caves, Wayanad";
+        document.getElementById("content3").innerHTML = "Famous for its exquisite rock and wall carvings, the pre-historic Edakkal Caves are two naturally occurring alcoves located in the Wayanad district of Kerala. The Edakkal caves are of historical and archaeological significance as it has carvings that date back to the Neolithic era, the late Stone Age. The stonework in the interior of the cave is estimated to be as old as 5000 BC to 1000 BC.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_796295632_20200116122849_20200116122911.png";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -1527,20 +1532,21 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Jagannath Temple, Ranchi";
+        document.getElementById("content1").innerHTML = "The Jagannath temple is situated at the hilltop and has a rich mythological history. It is one of the most famous historic landmarks of Ranchi. The temple origins can be traced back to 1691. The temple is known to resemble the famous Jagannath temple in Puri. The most interesting fact related to the temple is that the idols are made of wood, unlike other temple’s idols which are made of clay and stone. The temple gathers a huge audience during the festival of Ratha Yatra when the idols are taken out of the temple.";
+        document.getElementById("img1").src = "https://i0.wp.com/news.jugaadin.com/wp-content/uploads/2020/09/image-385.png?resize=263%2C198";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Panch Gagh Falls, Ranchi";
+        document.getElementById("content2").innerHTML = "Panch Gagh Falls is the most fascinating tourist attraction in Jharkhand. The place has five waterfalls flowing down through tall and steep hills. It is located near the scenic village of Khunti. The place provides a calm and soothing environment which makes it a good place for a picnic.";
+        document.getElementById("img2").src = "https://i0.wp.com/news.jugaadin.com/wp-content/uploads/2020/09/image-386.png?w=348&ssl=1";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Rajrappa Waterfall, Ramgarh";
+        document.getElementById("content3").innerHTML = "Rajrappa Waterfalls in Ramgarh District in Jharkhand is basically a pilgrimage center. The main attraction of the place is Chhinnamasta temple, dedicated to the headless deity Chinnamasta that stands on the body of Rati and Kamdev in the lotus bed.";
+        document.getElementById("img3").src = "https://i0.wp.com/news.jugaadin.com/wp-content/uploads/2020/09/image-387.png?resize=297%2C224";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -1645,19 +1651,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = " Hajo Powa Mecca, Hajo";
+        document.getElementById("content1").innerHTML = "The word 'Powa' means 1/4th and hence, Powa Mecca figuratively refers to having some of the sanctity of Mecca. The tomb of Pir Giasuddin Auliya, a pioneer of Islam is located here. The Powa Mecca is located near the Madhava temple. It was constructed by Mir Lutufullah-i-Shiraji in 1657, during the rule of the Mughal Emperor Shahjahan. It is also believed that the foundation of the Mosque here was laid with the soil that was brought from Mecca.";
+        document.getElementById("img1").src = "https://www.holidify.com/images/attr_square/1972.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = " Rang Ghar, Sibsagar";
+        document.getElementById("content2").innerHTML = "Often referred to as the 'Colosseum of the East', Rang Ghar is one of the oldest surviving amphitheatres of Asia. It is located near Rangpur Palace at a distance of 3 km from Sibsagar town. The name translates to 'House of Entertainment' and dates back to 1746 A.D. when the Ahoms used to rule present-day Assam. This monument is an important historical place in Assam reflecting the architectural precision and grandeur of that time.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/cmsuploads/square/attr_3537.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Talatal Ghar, Sibsagar";
+        document.getElementById("content3").innerHTML = "The Talatal Ghar or the Rangpur Palace is situated in the northern region of Assam and is one of the most impressive of Tai Ahom architecture. Not only does it stand as a worthy testament to the vibrant Assamese culture and its rich history, but it is also the largest of all Ahom monuments in the entire world. This historical place in Assam is known for its architecture. Boasting of a typical Mughal architecture style, the upper ground floor of the Talatal Ghar is popularly known as Kareng Ghar and was used by as a live-in palace by the royalty of Assam.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/cmsuploads/square/attr_3540.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -1761,20 +1768,20 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+         /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = " Golden Temple - Most famous historical place in Punjab";
+        document.getElementById("content1").innerHTML = "One of the most spiritual places in India, Golden Temple, also known as Sri Harmandir Sahib, is the holiest shrines in Sikhism and is alive with religious fervour and sacredness. Its divinity is a thing that can only be experienced and not described. In spite of the thousands of people milling about in the premises of the temple, the only voice you will hear around you is silence interspersed with chants of the Sikh prayers.";
+        document.getElementById("img1").src = "https://www.holidify.com/images/compressed/1250.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Jallianwala Bagh";
+        document.getElementById("content2").innerHTML = "allianwala Bagh was a great historical place in Punjab during the Indian struggle for Independence. It is a public garden in Amritsar which houses a memorial of national importance that was established by the government of India in 1951 to commemorate the massacre of peaceful celebrators by the British forces on April 13, 1919.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/compressed/1254.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Wagah Border - Patriotic Historical place in Punjab";
+        document.getElementById("content3").innerHTML = "Wagah Border is a road border between India and Pakistan. It is a famous tourist spot nowadays because of the famous beating retreat ceremony that is held every day before sunset. Almost 5,000 people visit the border to be a part of this ceremony. The flag ceremony is conducted by the Indian Border Security Force and Pakistan Rangers.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/compressed/1259.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -1878,20 +1885,21 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Bastar Palace";
+        document.getElementById("content1").innerHTML = "Bastar Palace is an archaic palace which was constructed when the Kings of Bastar moved their capital to Jagdalpur. The palace has intriguing wall cravings on the walls that adds to its beauty. It is in every sense an architectural marvel that speaks boldly of the bravery of the rulers who ruled there. There is a monument built inside the grounds of the palace. It was made by the government and puts forth portraits and artefacts of the rulers from the past. When here, you must definitely take a ride on the horse carriage. ";
+        document.getElementById("img1").src = "https://images.thrillophilia.com/image/upload/s--avzS94ch--/c_fill,g_center,h_460,q_auto,w_768/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/111/326/original/1493709198_Bastar_2BPalace_2Bin_2BJagdalpur.jpg.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Kanker Palace";
+        document.getElementById("content2").innerHTML = "Kanker Palace is another significant historical place in Chhattisgarh that was initially constructed in the 20th century. Originally known as the Radhanivas Bagicha, the palace was later on re built in the year 1937. This magnificently elegant palace showcases the influence of colonial architecture. Since the palace is located amidst the picturesque landscape with lush gardens enveloping it, the entire view is breath-taking. You can enjoy a couple of activities here such as jeep safaris, boat safaris and others.";
+        document.getElementById("img2").src = "https://images.thrillophilia.com/image/upload/s--nAKfWJoJ--/c_fill,g_center,h_460,q_auto,w_768/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/111/327/original/1493710297_1.jpg.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Bhoramdeo Temple";
+        document.getElementById("content3").innerHTML = "If you are a history lover, Bhoramdeo Temple is one place that you simply cannot afford to miss. It will give you a feeling of being a part of that historical era. Built between the 7th to the 11th centuries, the Bhoramdeo Temple is referred to as Khajuraho of Chhattisgarh by many. Nestled amidst the magnificent setting of mighty Maikal mountains, the top of the temple offers spectacular views. This is also believed to be one of the most beautifully decorated temples. You can find several erotic and religious sculptures inside the temple.";
+        document.getElementById("img3").src = "https://images.thrillophilia.com/image/upload/s--zaJbmmRo--/c_fill,g_center,h_460,q_auto,w_768/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/111/328/original/1493710525_Bhoramdeo_Temple_2C_Kawardha.jpg.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -1996,19 +2004,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Farrukh Nagar Fort";
+        document.getElementById("content1").innerHTML = "Built in the year 1732 by the Mughal emperor Faujdar Khan, the Farrukhnagar fort is the quintessential Mughal structure, adorned by various designs dating back to the said era. Featuring an octagonal shape, the fort is also home to one of the most distinguished bastions in the country. ";
+        document.getElementById("img1").src = "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.0,f_auto,fl_progressive.strip_profile,g_center,h_460,q_auto,w_768/v1/filestore/tiioymckvvbplth9op6qhq6bhul9_14417392523.JPG";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Sheikh Chillis Tomb";
+        document.getElementById("content2").innerHTML = "Established in Circa 17th Century AD, this elegant structure is the eternal resting place of the venerable Sufi saint Abdur Abdur-Rahim. He was popularly known as Sheikh Chilli or Chili and Dara Shikoh, the eldest son of the Mughal Emperor Shahjahan, was a devotee and disciple of this erudite scholar. Moreover, Sheikh Chilli's Tomb is constructed in beige sandstone, has a white marble lofty pear-shaped dome and delicate Parisian overtones that are imbued in this charming edifice.";
+        document.getElementById("img2").src = "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.0,f_auto,fl_progressive.strip_profile,g_center,h_460,q_auto,w_768/v1/filestore/vay65ahbas6rmp22pe981m3031wk_1585048452_shutterstock_1295846953.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Srikrishna Museum";
+        document.getElementById("content3").innerHTML = "The museum was founded in 1987 and inaugurated by Sri R. Venkataraman, the then president of India. In February 2012, President Ms Pratibha Patil opened two new blocks that house the Gita Gallery and Multimedia Mahabharata. The museum is dedicated to the Hindu deity Lord Vishnu’s Krishna avatar, where his several incarnations as described in the Mahabharata and Bhagavata Purana are depicted through paintings, sculptures, manuscripts, antique relics and other objects.";
+        document.getElementById("img3").src = "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.0,f_auto,fl_progressive.strip_profile,g_center,h_460,q_auto,w_768/v1/filestore/uprsb4uzsmqzxfwogbx60yb95uhc_1600321520_Sri_Krishna_Sangrahalay__Kuruksh.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -2113,19 +2122,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Hari Parbat Fort-Srinagar";
+        document.getElementById("content1").innerHTML = "It is one of the popular monuments in Srinagar where not a single tourist wants to miss their visit. The fort is visible from everywhere in Srinagar city. This structure is famous for its breathtaking surroundings enclosed by dense forests, erotic gardens and luxuriant plains. Hari Parbat is also a pilgrimage site for Sarika Devi devotes and that’s why it is mostly visited by tourists every year.";
+        document.getElementById("img1").src = "https://media.easemytrip.com/media/Blog/India/637050275782369986/637050275782369986Noy3Gu.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Leh Palace-Ladakh";
+        document.getElementById("content2").innerHTML = "The Leh Palace is prevalent as ‘Lhachen Palkhar’ and it is the impeccable example of medieval Tibetan architecture. One can enjoy the outstanding panoramic views of Ladakh Mountains and Stok Kangri along with its serene surroundings. At present, the place is in a dilapidated condition but you can still enjoy the artifacts stored in the museum of this majestic building. The whole castle is built of stones, sand, wood, and mud.";
+        document.getElementById("img2").src = "https://media.easemytrip.com/media/Blog/India/637050275782369986/6370502757823699869hUcBa.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Mubarak Mandi Palace-Jammu";
+        document.getElementById("content3").innerHTML = "It is one of the most attractive tourist destinations which were once a royal residence of Dogra King. It is one of the noteworthy heritage places in Jammu that indicates the 160 years old history. The architecture of this Palace is a perfect amalgamation of Rajasthani architecture, Mughal styles and European Baroque. Its complex consists of multiple buildings and palaces like Royal Courts, Gol Ghar Complex, Rani Charak Palace, Hawa Mahal, Pink Palace, Sheesh Mahal, etc. ";
+        document.getElementById("img3").src = "https://media.easemytrip.com/media/Blog/India/637050275782369986/637050275782369986qbHNRz.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -2229,20 +2239,21 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+      /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Narendra Nagar, Tehri Garhwal District";
+        document.getElementById("content1").innerHTML = "Once, the part of Tehri Riyasat, Narendra Nagar is a historical town of Garhwal region. Ruled for a very long time by Shah Rulers, Narendra Nagar has many evidences to prove the majesty of the Garhwal Kingdom. Maharaja Narendra Shah shifted his capital to this beautiful town in 1919 and constructed several buildings that are still in use as hospital and secretariat. The royal palace of Narendra Shah, which also the home to an incredible spa destination: Ananda- Inn the Himalayas is the highlight of this town.";
+        document.getElementById("img1").src = "https://www.tourmyindia.com/blog//wp-content/uploads/2015/07/narendra-nagar-tehri.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Chaukhutia, Almora District";
+        document.getElementById("content2").innerHTML = "Famous as Rangilo Gewar, Chaukhutia is a sleepy town in Kumaon region. Rising to fame during the Katyuri rule, Chaukhutia is an appreciable place to witness the rich history of Uttarakhand. The town preserves the remnants of the Katyuri dynasty in the form of fort and temples. The legend has it that Pandavas from the epic Mahabharata also stopped here for a short period while they were in exile. It is believed that Pandukholi caves found in Chaukhutia have been built and adorned by Pandavas and are truly a site to visit.";
+        document.getElementById("img2").src = "https://www.tourmyindia.com/blog//wp-content/uploads/2015/07/chaukhutia-tourist-attractions.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Lohaghat, Champawat District";
+        document.getElementById("content3").innerHTML = "Situated on the bank of Lohawati River in Champawat district of Uttarakhand, Lohaghat is reckoned to be important destination in the state. An ancient town, Lohaghat is known for its temples that are more than a century old. This historic city is a witness to several historical events in the bygone era and each event is believed to have been marked by the construction of one temple each time. Places like Abbot Mount, Mayawati Ashram, Jhuma Devi and Advaita Ashram are major attractions here. ";
+        document.getElementById("img3").src = "https://www.tourmyindia.com/blog//wp-content/uploads/2015/07/lohaghat-jhuma-devi-temple.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -2347,19 +2358,19 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = " Hadimba Temple, Manali";
+        document.getElementById("content1").innerHTML = "Hadimba Temple, Manali, one of the best places to visit in Himachal, is placed on a rock, which according to Hindu mythology is image of Goddess Hidimba. The temple is dedicated to Hidimba, wife of Bhima. The temple looks very different from other Hindu temple as the doors are made of wood and the roof is cone-shaped. The temple is surrounded by cedar forest. The temple is not only famous for its historical significance but also for its scenic surroundings.";
+        document.getElementById("img1").src = "https://www.revv.co.in/blogs/wp-content/uploads/2020/07/Hadimba-Temple-Manali-1.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Kangra Fort";
+        document.getElementById("content2").innerHTML = "Kangra Fort is one of the historical places in Himachal Pradesh, which dates back to the period of Hindu epic Mahabharata. This fort was ruled by Trigarta Kingdom. This is the oldest fort in the country and the largest fort in the Himalayas. This fort was highly protected by the Kings to keep the treasures safe.";
+        document.getElementById("img2").src = "https://cdn.s3waas.gov.in/s348aedb8880cab8c45637abc7493ecddd/uploads/bfi_thumb/2018040490-olw8is597ukq4uz3cixs8zkquectpe2df7sbj8ebnu.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Jaitak Fort, Nahan";
+        document.getElementById("content3").innerHTML = "Located on the top of Jaitak Hills, the Jaitak Fort was constructed in 1810, by Ranjor Singh Thapa, a Gurkha leader. This fort was built with materials that were recovered from the Nahan fort after it was destroyed.  The fort is located at proximity of 25 km from Nahan.";
+        document.getElementById("img3").src = "https://www.gosahin.com/go/p/j/1583577740_jaitak-fort1.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -2464,19 +2475,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Agartala";
+        document.getElementById("content1").innerHTML = "Agartala is the capital of Tripura, is one of the largest cities in that state and one of the most popular places to visit in Tripura. The place is famous for its terrains which are full of green pastures, hills and beautiful valleys. The main attraction of this place is Ujjayanta Palace. You would require to plan at least two days if you wish to cover Agartala in detail. Ujjayanta Palace is a royal house built by Maharaja Radha Kishore Manikya in 1899.";
+        document.getElementById("img1").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/Agartala-400x229.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Melaghar";
+        document.getElementById("content2").innerHTML = "Melaghar is also a town located 50 km from Agartala. The place is famous for Neermahal which is situated in the middle of Rudrasagar Lake. The place has got very peaceful vibes. It is also famous for Durga Puja Festival. The entire town looked blessed when it is lit with beautiful lights during this festival. There are various puja pandals played across the roads and everybody seems to enjoy it. Another festival, which is dearly celebrated in Melaghar is Ratha Yatra which is held every year in July.";
+        document.getElementById("img2").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2019/12/Melaghar-Tripura-400x229.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = " Kailashahar";
+        document.getElementById("content3").innerHTML = "Kailashahar is another town in the state of Tripura and is located very near to Bangladesh borders which makes it one of the best places to visit in Tripura. The town was the capital of Tripura in ancient times and have roots associated with Unakoti. The main festival of Kailashahar is Durga puja and the city is decorated with fancy lights and Goddess Durga pandals. ";
+        document.getElementById("img3").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2019/12/Kailashahar-Tripura-400x229.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -2581,19 +2593,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Megalithic Bridge on the Um-Nyankanah";
+        document.getElementById("content1").innerHTML = "This megalithic bridge is built over the Um-Nyankanah River, supported by huge stone pillars. According to local legends, the Jaintia Kings gave orders to build this bridge during the  medieval period. They constructed several of these megalithic bridges built over 100s years to promote trade between their ruling cities and provide means of communication and movement of their armies. For history buffs and heritage lovers, this stone bridge is one of the must-visit historical monuments of Meghalaya. The bridge is under Archaeological Survey of India’s (ASI) protection.";
+        document.getElementById("img1").src = "https://ihplb.b-cdn.net/wp-content/uploads/2021/01/Megalithic-Bridge-on-the-Um-Nyankanah-1.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Narthiang Monoliths";
+        document.getElementById("content2").innerHTML = "Nartiang Monoliths in Meghalaya’s Jaintia Hills are considered among some of the tallest in the world. These were built to honor the erstwhile Jaintia Kings and consist of Menhirs or Moo Shynrang and Dolmens or Moo Kynthai.As per the local legends, the tallest of these monoliths, known locally as Moo Long Syiem stands 26 feet.";
+        document.getElementById("img2").src = "https://ihplb.b-cdn.net/wp-content/uploads/2021/01/Narthiang-Monoliths.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Kiang Nongbah Monument";
+        document.getElementById("content3").innerHTML = "A memorial to Jaintia King U Kiang Nangbah’s valor, Kiang Nongbah Monument, was constructed on the banks of the Myntdu River. It is located in Madlah Kmal Blai in Jowai’s Syntu Ksiar Valley. This historical monument is worth a visit for its significance in the history of India’s Independence struggle.";
+        document.getElementById("img3").src = "https://ihplb.b-cdn.net/wp-content/uploads/2021/01/Kiang-Nongbah-Monument.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -2698,19 +2711,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Senapati – For A Cultural Insight";
+        document.getElementById("content1").innerHTML = "Blessed with nature’s bounty, Senapati is a simple yet intriguing hideout and one of the best tourist places in Manipur. Almost 80 percent of the area here is covered in verdant forests, and the rest of it is inhabited by villagers. The hamlet makes for an ideal escape for someone longing for a cultural insight to Manipur. You could be spending the day exploring the woodland and in the evening spend time with locals, who knows may as well cook something special for you.";
+        document.getElementById("img1").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2018/02/senapati-400x221.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Khongjom – Remembering The Brave Legends";
+        document.getElementById("content2").innerHTML = "A place that pays a tribute to the military, Khongjom is one of the best Manipur destinations. Right here, the revered major general, Paona Brajabashi with his troops fought with British during their reign. The was is known as Anglo-Manipur War. Today there is a memorial built in remembrance of the brave fighters, which holds historical importance. The place is perfect for an Indian patriot, or anyone with interest in military and the history of wars.";
+        document.getElementById("img2").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2019/01/Khongjom-400x261.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = " Ukhrul – Where Tranquility Prevails";
+        document.getElementById("content3").innerHTML = "Known for its scenic splendour, Ukhrul is among the best places to see in Manipur. The natural beauty is such that you could meditate for hours and find peace of mind. When planning to spend time here, just have plenty of time in your hands as you might consider an extended stay. Trekking and tea garden visit are among the most common activities in Ukhrul. It is one of the most stunning places to visit in Manipur. ";
+        document.getElementById("img3").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2019/01/Ukhrul-%E2%80%93-Where-Tranquility-Prevails-400x261.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -2814,20 +2828,21 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+         /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Kohima – Untouched Nature";
+        document.getElementById("content1").innerHTML = "The capital of Nagaland deserves to be on the must-visit list of everyone. Kohima, originally Kewhira, is pure bliss for anyone who loves being amidst untouched nature. It is located at a height of 1500 meters above sea level. It is surrounded by breath-taking mountains and forests. One can also indulge in adventures like trekking, hiking, and camping in this region. This place is home to the Angami tribe.";
+        document.getElementById("img1").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/Kohima_16th-Jan-400x228.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Wokha – Exotic Flora And Fauna";
+        document.getElementById("content2").innerHTML = "As you reach Wokha, the hills and green landscape, constant in the state, turn livelier and prettier. You will find scores of plants bursting with multicolored flowers, juicy and fresh fruits and freely flowing rivers enchanting with their beauty. The tribe that resides here is the Lotha tribe.";
+        document.getElementById("img2").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/Wokha_16th-Jan-400x229.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = " Kiphire";
+        document.getElementById("content3").innerHTML = "If you are seeking adventurous time in the lap of nature, Kiphire is your place. It is home to the highest peak in Nagaland- Saramati. Spend 3 days trekking in this awe-inspiring mountain range passing through a beautiful Rhododendron forest. There are several other popular adventures offering attractions in and around Kiphire like Cavers’ delight, Sukhayap or Lover’s Paradise, and Wawade.";
+        document.getElementById("img3").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/Kiphire_16th-Jan-400x229.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -2931,20 +2946,21 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Basilica of Bom Jesus - Most famous historical place in Goa";
+        document.getElementById("content1").innerHTML = "This historical place in Goa is a UNESCO World Heritage Site. The Basilica of Bom Jesus houses the tomb and remains of St. Francis Xavier. Even after 400 years, the remains are in a good condition and are taken out once every decade. Up until half a century ago, Goa was the capital of Portuguese rule in India and this is part of their heritage.";
+        document.getElementById("img1").src = "https://www.holidify.com/images/compressed/3198.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Se Cathedral";
+        document.getElementById("content2").innerHTML = "One of the largest churches in the whole of Asia, Se Cathedral took nearly 80 years to get constructed. It was established to remember the victory of the Portuguese over the Muslim rulers in the city.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/compressed/4372.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Fort Aguada";
+        document.getElementById("content3").innerHTML = "Fort Aguada and its lighthouse is a 17th century Portuguese Fort which stands till date on Sinquerim Beach, Goa. It was built in 1612 to provide protection from Dutch and Marathas. It is the most priced and crucial historical place in Goa. It was also used as a prison for Salazar's political opponents. Built on river Mandovi, it covers the entire peninsula at the southwestern tip of Bardez."";
+        document.getElementById("img3").src = "https://www.holidify.com/images/compressed/4369.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -3049,19 +3065,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Bomdila";
+        document.getElementById("content1").innerHTML = "Bomdila is a remarkable tourist attraction in Arunachal Pradesh. This place is located 8000 feet and is a perfect place where you can ensnare the snow-clad peaks of the mighty Himalayas. Apart from being natures bounty, as it is bestowed with tantalizing meadows, Bomdila houses numerous places like the Buddhist monasteries, Hindu temples, wildlife sanctuaries etc. Whilst being in Bomdila, you can also experience the thrill of trekking in the";
+        document.getElementById("img1").src = "https://dynamic.tourtravelworld.com/blog_images/bomdila-20170703051150.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Pasighat";
+        document.getElementById("content2").innerHTML = "The tranquility floats in the air; theres a mind-calming serenity that will make you succumb to nature. We feel this line is apt to define the spectacular site of Pasighat. With the backdrop of misty and snow-capped Himalayan peaks, Pasighat is a haven for those that adore nature. The river Brahmaputra flows through the region. At Pasighat, people witness the amalgamation of peace and adventure, which means that it is a place where you can relish the sports like river rafting, trekking, and angling etc.";
+        document.getElementById("img2").src = "https://dynamic.tourtravelworld.com/blog_images/pasighat-20170703050601.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Itanagar";
+        document.getElementById("content3").innerHTML = "Missing out the name of the capital city of Arunachal Pradesh isnt right. The city of Itanagar is a marvelous place to visit in Arunachal Pradesh. Beckoned by the murky Himalayas, there are numerous attractions in Itanagar that make it stand amid the prime places of interest in Arunachal Pradesh. You can visit Ita Fort that is constructed using the special bricks. Itanagar Wildlife Sanctuary is another place that is a great choice for spending a day among the friends with a tail.";
+        document.getElementById("img3").src = "https://dynamic.tourtravelworld.com/blog_images/itanagar-20170703050552.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -3166,19 +3183,20 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Aizawl";
+        document.getElementById("content1").innerHTML = "Have you ever dreamt of a paradise on earth? Then, that dream is going to turn into reality at Aizawl. This is one of the oldest cities of Mizoram and attracts a lot of tourists because of the picturesque views it offers. The tranquil setup of this quaint town can leave your mind, body, and soul totally relaxed. This town has plenty of Mizoram tourist places for visitors. ";
+        document.getElementById("img1").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2019/12/Aizawl-400x229.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = " Mamit – Haven For Wildlife Enthusiasts";
+        document.getElementById("content2").innerHTML = "Mamit is one of the top tourist attractions in Mizoram. There are a lot of attractions in this place and most of the wildlife enthusiasts love to go to Mamit. The Dampa Wildlife Sanctuary is one of the best attractions to visit here and you can spot peacock, Malabar pied hornbill, crested serpent eagle, and emerald-dove. If you love to be in the wild, this is the best place to visit. You can spot some of the rarest species like rhesus macaque and leaf monkeys too.";
+        document.getElementById("img2").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2019/12/Mamit-400x229.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Reiek – Bask In The Sunlight";
+        document.getElementById("content3").innerHTML = "Experience the lovely village life basking in the sun amidst the lush green fields of Reiek. For an offbeat experience in Mizoram, one must visit this village to enjoy to the fullest. If you are a traveler and want to feel every single second of your life then, this is the place you must live at for a few weeks. A walk in this village would leave you rejuvenated totally.";
+        document.getElementById("img3").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2019/12/Reiek-400x229.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -3282,20 +3300,20 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+         /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Pemayangtse Monastery";
+        document.getElementById("content1").innerHTML = "Located around 140 kilometres west from Gangtok, Sikkim, the monastery was founded in 1705 by Lama Lhatsun Chempo, and is one of the oldest monasteries in Sikkim. Pemayangtse Monastery was built for “pure monks” (ta-tshang) meaning “monks of pure Tibetan lineage”, celibate and without any physical abnormality. This practice is still retained. Only the monks of Pemayangtse Monastery are entitled to the title “ta-tshang”.";
+        document.getElementById("img1").src = "https://www.transindiatravels.com/wp-content/uploads/pemayangtse-monastery-2.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = " Rumtek Monastery";
+        document.getElementById("content2").innerHTML = "Rumtek Monastery was built in the 16th century around the same time as the other 2 monasteries established by the 9th Karmapa Wangchuk Dorje and was the main seat of the karma Kagyu lineage for some time and was eventually abandoned to ruins. When the 16th Karmapa arrived in Sikkim in 1959, he decided to rebuild the monastery as the site was considered highly auspicious.";
+        document.getElementById("img2").src = "https://www.transindiatravels.com/wp-content/uploads/rumtek-monastery-1.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Khecheopalri Lake";
+        document.getElementById("content3").innerHTML = "Located at an average elevation of 1,700 meters above sea level, Khecheopalri Lake is a sacred place for both Buddhists and Hindus and is situated in the Khecheopalri village in the west Sikkim district. The name of the lake ‘Khecheopalri’ was originally known as ‘Kha-chot-palri’ which means the heaven of Lord Padmasambhava. An interesting feature of the lake is that leaves are not allowed to float on the lake, which is ensured by the birds which industriously pick them up as soon as they drop into the lake surface.";
+        document.getElementById("img3").src = "https://www.transindiatravels.com/wp-content/uploads/khecheopalri-lake-2.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -3399,20 +3417,20 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Red Fort";
+        document.getElementById("content1").innerHTML = "The Red Fort was the official seat of Mughal rule and authority from 1648 onwards, when the 5th Mughal emperor, Shah Jahan, decided to move the capital of the empire from Agra to Delhi. Constructed using red sandstone, it remains one of the architectural marvels of the Mughal era. In 2007, it became a UNESCO World Heritage Site. Today, this monument is home to a number of museums that have an assortment of precious artifacts on display. Every year, the Indian Prime Minister unfurls the national flag here on the Independence Day.";
+        document.getElementById("img1").src = "https://www.holidify.com/images/compressed/41.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = " Humayun's Tomb";
+        document.getElementById("content2").innerHTML = "Apart from being known for its stunning architecture, this is the first garden-tomb on the Indian subcontinent. It is a UNESCO World Heritage Site declared in 1993 and has undergone widespread restoration work since then. The tomb was built by Humayun's son Akbar during 1569-70 and is also the first structure to have made the use of red sandstone at a massive scale.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/compressed/4328.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Qutub Minar and Complex";
+        document.getElementById("content3").innerHTML = "Qutub Minar is the tallest individual tower in the world and the second tallest monument of Delhi. A UNESCO World Heritage Site, it is located in Mehrauli and its construction was started in 1192 by Qutb Ud-Din-Aibak, founder of Delhi Sultanate. Later, the tower was built by various rulers over the centuries. The sight of this glorious monument takes you back to the rich history of India.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/compressed/36.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -3517,19 +3535,19 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Shri Aurobindo Ghosh Ashram – Beautiful Ashram";
+        document.getElementById("content1").innerHTML = "Pondicherry was the residence of Sri Aurobindo (Indian freedom fighter), was founded in 1926. It is one of the well known and wealthy ashrams of India. The ashram has one of the prime destinations for tourists and spiritual seekers. If you’re looking for peace and serenity in Pondicherry, this place should definitely be on your list.";
+        document.getElementById("img1").src = "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/06/Shri-Aurobindo-Ghosh-Ashram-Pondicherry-400x265.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Auroville – Peaceful Living";
+        document.getElementById("content2").innerHTML = "The name means ‘the city of Dawn’, founded in 1968. It is a Universal town where men and women of any country can live together to progress harmony and realize human unity. It’s one of the best tourist places near Pondicherry within 100 kms that exudes utmost tranquility and peace. Auroville is an amazing destination for all solace seekers and to make the most of your trip, you must stop by this peaceful spot.";
+        document.getElementById("img2").src = "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/06/Auroville-Pondicherry-400x300.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Gingee Fort – Relive History";
+        document.getElementById("content3").innerHTML = "Gingee fort is one of the best places to visit in Pondicherry. The Fort is declared as a National Monument in 1921. Apart from being a unique architectural feat it is one of the few forts in the State. History geeks and architecture lovers must not miss out this place during their holiday in Pondicherry.";
+        document.getElementById("img3").src = "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/06/Gingee-Fort-Pondicherry-400x300.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -3633,20 +3651,21 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+         /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Burail Fort, Chandigarh";
+        document.getElementById("content1").innerHTML = "Located in the heart of the city, Burail Fort is a Mughal legacy. It was the citadel of a Mughal general till 1712 but due to his oppressive behavior towards the people, he was killed by the members of the Khalsa Army under the orders of their commander, Banda Singh Bahadur.";
+        document.getElementById("img1").src = "https://www.fabhotels.com/blog/wp-content/uploads/2019/04/Burail-Fort.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Manimajra Fort, Chandigarh";
+        document.getElementById("content2").innerHTML = "With a history of over 360 years, Manimajra Fort is one of the must-visit forts in Chandigarh. It might not make it to the list of the most splendid forts in terms of structure or scale but it gained popularity among tourists and history buffs after having been featured in the Oscar-nominated Hollywood movie, Zero Dark Thirty.";
+        document.getElementById("img2").src = "https://www.fabhotels.com/blog/wp-content/uploads/2019/04/Manimajra-Old-Fort.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Pinjore Gardens, Chandigarh";
+        document.getElementById("content3").innerHTML = "Modeled on the Shalimar Bagh in Srinagar, Pinjore Gardens near Chandigarh was built in the 17th century to serve as a summer retreat of the Mughal Emperor, Aurangzeb. It was built by his foster brother, Nawab Fidai Khan Koka aka Muzaffar Hussain. Later, it was renovated and expanded by Maharaja Yadavindra of the Patiala dynasty. Hence, it is also called Yadavindra Gardens.";
+        document.getElementById("img3").src = "https://www.fabhotels.com/blog/wp-content/uploads/2019/05/Pinjore-Gardens.jpg";
+
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -3751,19 +3770,19 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = " Port Blair";
+        document.getElementById("content1").innerHTML = "The capital of Andaman and Nicobar Islands, Port Blair is poignant reminder of the many sacrifices of freedom fighters. The Cellular jail here is perhaps one of the most infamous remnants of India’s struggle for independence. The main motive of the establishment of this prison was solitary confinement of the prisoners. The wings were built in a manner that the face of each cell only saw the back of the cell opposite to it.";
+        document.getElementById("img1").src = "https://www.transindiatravels.com/wp-content/uploads/cellular-jail-2-1.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Havelock Islands";
+        document.getElementById("content2").innerHTML = "Havelock islands is home to Radhanagar beach, one of the most popular beaches in India and also awarded the best beach in Asia by TIME magazine in 2004. The beach is situated around a distance of 12 kilometers from the Havelock islands and is a must visit site. The waters are sparkling blue and devoid of any wave action. There are a huge number of activities that one can do like scuba diving, snorkeling, boating, fishing etc. The beach is especially popular for couples as it is almost vacant and the serene environment adds to the romance.";
+        document.getElementById("img2").src = "https://www.transindiatravels.com/wp-content/uploads/radhanagar-beach-3.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Ross Island";
+        document.getElementById("content3").innerHTML = "Ross islands are famous for the ruins of Penal colony that precedes the cellular jail or the Kaala paani. The jail was formerly used to incarcerate political prisoners and we can still see the ruins of the gallows at this island. The jail had many notable political prisoners from India’s struggle to independence. The island also has ruins of British’s opulent colonial past in the form a bakery, bungalows etc. ";
+        document.getElementById("img3").src = "https://www.transindiatravels.com/wp-content/uploads/viper-island-1.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -3867,20 +3886,20 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Swaminarayan Temple";
+        document.getElementById("content1").innerHTML = "Another reason why tourists visit this place is this old-world architecture. It is a huge temple, which is beautifully built and maintained. If you are looking for peace of mind, then you are sure to find it here. You can also look at the amazing cravings done here that elevates the beauty of the architecture of the temple. Another thing about this temple is that it is located at the banks of Daman Ganga River, which is another spot for you to explore.";
+        document.getElementById("img1").src = "https://www.businessupturn.com/wp-content/uploads/2020/08/swaminarayan-temple.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Vanganga Lake";
+        document.getElementById("content2").innerHTML = "Another Lake in Dadra and Nagar Haveli is Vangana Lake. It is surrounded by acres of lush greenery, where you can sit and relax. It is a beautiful lake in the island garden complex and you can enjoy boating in paddle-boats here. You can also feed ducks and fishes and also turtles present in the lake. The place is picture-perfect. So, if you are looking forward to exploring a place where you can relax and distress yourself, then this is the perfect spot.";
+        document.getElementById("img2").src = "https://www.businessupturn.com/wp-content/uploads/2020/08/vanganga-lake-garden.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Nakshatra Garden";
+        document.getElementById("content3").innerHTML = "If you are in Silvassa, then another spot near the Daman Ganga river is Nakshatra Garden. If you are interested in plants, then this is surely an informative location for you. This garden makes 27 Nakshatra and 12 rashis. It is famously known to be an Astro-themed park. It also has a play area for kids, little ponds, a number of species of ducks, plants, and a lot more.";
+        document.getElementById("img3").src = "https://www.businessupturn.com/wp-content/uploads/2020/08/nakshatra-garden.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -3984,20 +4003,22 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+       /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = "Moti Daman Fort – Dig Into The History";
+        document.getElementById("content1").innerHTML = "Constructed by the Portuguese, towards the end of sixteenth century, the Moti Daman Fort is one of the most popular monuments in Daman. Even though the fort has worn out, and needs restoration, it is still one of the best places to visit in Daman which boasts of Colonial style architecture featuring huge walls, 10 bastions, 2 gateways, and an Iberian church.";
+        document.getElementById("img1").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2018/01/Moti-Daman-Fort-400x257.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = " Church Of Our Lady Of Sea – Pray For Your Loved Ones";
+        document.getElementById("content2").innerHTML = "Considered as one of the most sacred worship places in Daman, the Church of Our Lady of Sea, is also one of the best places to visit in Daman. Built inside the St Jerome Fort, this holy place is known for its exquisite architecture, and a colossal statue of St Jerome. Other than visiting the church, tourists can also spend some time near the Daman Ganga river to revel in the serenity of nature.";
+        document.getElementById("img2").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2018/01/Church-Of-Lady-of-Sea-Daman.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = " Jain Temple – Pay A Visit";
+        document.getElementById("content3").innerHTML = "The city of Daman is studded with numerous temples spread throughout the city, with Jain temple being one of the most popular among them. Include a visit to this temple in your Daman sightseeing tour to peep into the cultural, and religious beliefs of the sect. This temple is also known for its unique architecture which features 18th-century murals that depict the life of Lord Mahavira, the founder of Jainism.";
+        document.getElementById("img3").src = "https://img.traveltriangle.com/blog/wp-content/uploads/2018/01/Jain-Temple-In-Daman-400x286.jpg";
+
+    } else if (category == "Food") {
 
     } else if (category == "Food") {
        /*set heading of page*/
@@ -4101,20 +4122,20 @@ if (state == "Uttar Pradesh") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
-        /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+         /*first paragraph and its img*/
+        document.getElementById("one").innerHTML = " Kadmat";
+        document.getElementById("content1").innerHTML = "Also known as cardamom island, the Kadmat Island is located on a coral reef and is known for its shallow shores that are rich with marine life. The huge lagoon located towards the west of the island makes it a popular tourist destination.";
+        document.getElementById("img1").src = "https://www.transindiatravels.com/wp-content/uploads/kadmat.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Kalpeni Island";
+        document.getElementById("content2").innerHTML = "Uninhabited and secluded, Kalpeni is known for its amazing beaches. One can sunbathe or swim in the waters or enjoy Watersports like snorkeling and scuba diving here. The waters are shallow with white sandy shores and are perfect destination for a visit with friends.";
+        document.getElementById("img2").src = "https://www.transindiatravels.com/wp-content/uploads/kalpeni-island.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Agatti Island";
+        document.getElementById("content3").innerHTML = "With a majority of Muslim population, the Island is said to have been visited by Arabian traveler Ibn Batuta. The island unlike the others isn’t easily accessible as one would need to obtain a special permit from the Administration and is granted only with visitors who have a confirmed place to stay.";
+        document.getElementById("img3").src = "https://www.transindiatravels.com/wp-content/uploads/agatti-island.jpg";
 
     } else if (category == "Food") {
        /*set heading of page*/
