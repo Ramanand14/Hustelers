@@ -2958,7 +2958,7 @@ if (state == "Uttar Pradesh") {
 
         /*third paragraph and its img*/
         document.getElementById("three").innerHTML = "Fort Aguada";
-        document.getElementById("content3").innerHTML = "Fort Aguada and its lighthouse is a 17th century Portuguese Fort which stands till date on Sinquerim Beach, Goa. It was built in 1612 to provide protection from Dutch and Marathas. It is the most priced and crucial historical place in Goa. It was also used as a prison for Salazar's political opponents. Built on river Mandovi, it covers the entire peninsula at the southwestern tip of Bardez."";
+        document.getElementById("content3").innerHTML = "Fort Aguada and its lighthouse is a 17th century Portuguese Fort which stands till date on Sinquerim Beach, Goa. It was built in 1612 to provide protection from Dutch and Marathas. It is the most priced and crucial historical place in Goa. It was also used as a prison for Salazar's political opponents. Built on river Mandovi, it covers the entire peninsula at the southwestern tip of Bardez.";
         document.getElementById("img3").src = "https://www.holidify.com/images/compressed/4369.jpg";
 
 
