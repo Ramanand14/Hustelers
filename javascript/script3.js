@@ -243,7 +243,7 @@ if (state == "Uttar Pradesh") {
         /*first paragraph and its img*/
         document.getElementById("one").innerHTML = "Nalanda";
         document.getElementById("content1").innerHTML = "The most popular Mahavihara of the ancient times, a significant Buddhist seat of academic excellence and a modest pilgrim center, all wrapped in a wisp of spirituality, Nalanda continues to be an equally enriching historical place in Bihar in the present. It offers vibrant substance of spirituality, history, culture, architecture, and tourism.";
-        document.getElementById("img1").src = "https://www.holidify.com/images/tooltipImages/NALANDA.jpg;
+        document.getElementById("img1").src = "https://www.holidify.com/images/tooltipImages/NALANDA.jpg";
 
         /*second paragraph and its img*/
         document.getElementById("two").innerHTML = "Vaishali, Bihar - World famous historical place in Bihar";
