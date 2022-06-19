@@ -43,7 +43,8 @@ To execute the file on local device follow these steps,
 2. Run the index.html on local device
 3. Select any state
 4. You will be find 6 options, you can select any one option and read the information
-(Note: The proposed project design is just an prototype for the project, due to time limit we have submitted less details there)
+
+(Note: The proposed project design is just an prototype for the competition, due to time limit we have submitted less details here)
 
 
 You can also visit the link https://ramanand14.github.io/Hustelers/ and check the final output
