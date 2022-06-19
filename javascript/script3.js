@@ -1606,7 +1606,7 @@ if (state == "Uttar Pradesh") {
         document.getElementById("content3").innerHTML = "";
         document.getElementById("img3").src = "";
 
-    } else if (category == "Culture") {
+    }else if (category == "Culture") {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
@@ -1616,33 +1616,33 @@ if (state == "Uttar Pradesh") {
         document.getElementById("img1").src = "https://www.traveljharkhand.com/jharkhand-tourism/jharkhand-overview/images/jharkhand-culture.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Fort";
+        document.getElementById("content2").innerHTML = "During 18th century, region under Kings of Chero dynasty, Nagvanshi dynasty, Ramgarh and Kharagdiha became parts of territories of East India Company. Ramgarh Raj along with estates of other chiefs in the regions was permanently settled as Zamindari estate. The Kharagdiha Rajas were settled as Rajas of Raj Dhanwar in 1809, and the Kharagdiha gadis were separately settled as zamindari estates. Some of the notable Kharagdiha Zamindari estates were Koderma, Gadi Palganj and Ledo Gadi.[34] The Princely states in Chota Nagpur Plateau, came within the sphere of influence of the Maratha Empire, but they became tributary states of British East India Company as a result of the Anglo-Maratha Wars known as Chota Nagpur Tributary States";
+        document.getElementById("img2").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nawratan_gadh.jpg/453px-Nawratan_gadh.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Overview";
+        document.getElementById("content3").innerHTML = "Thakur Vishwanath Shahdeo and Pandey Ganpat Rai rebelled against the British East India Company in the 1857 rebellion. In the Battle of Chatra, conflict took place between the rebels and the East India company.[38][39] Tikait Umrao Singh, Sheikh Bhikhari, Nadir Ali and Jai Mangal Singh played pivotal role in the Indian Rebellion of 1857.[40] The brothers Nilambar and Pitambar were chiefs of Bhogta clan of the Kharwar tribe, who held ancestral jagirs with many Chero Jagirdars led revolt against British East India company.";
+        document.getElementById("img3").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Attack_by_600_Santhals_upon_a_party_of_50_sepoys%2C_40th_regiment_native_infantry.jpg/330px-Attack_by_600_Santhals_upon_a_party_of_50_sepoys%2C_40th_regiment_native_infantry.jpg";
 
     } else {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Deoghar";
+        document.getElementById("content1").innerHTML = "Deoghar, a popular religious destination in Jharkhand is blessed with one of the 12 Jyotirlinga temples known as temple Baidyanath.";
+        document.getElementById("img1").src = "https://www.holidify.com/res/images/patt.png";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Jamsherpur";
+        document.getElementById("content2").innerHTML = "The largest city in Jharkhand, Jamshedpur is an aesthetically planned township with an appealing infrastructure and landscape. Juxtaposed against the beautiful Dalma Hills, Jamshedpur is the world's eighth-largest steel manufacturing company, along with being India's first planned city.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/bgImages/JAMSHEDPUR.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Ranchi";
+        document.getElementById("content3").innerHTML = "Ranchi is the capital of mineral-rich state Jharkhand. Located at an altitude of 700 metres, Ranchi was once identified as the summer capital of Bihar owing to its altitude of 700 metres, waterfalls, surrounding forest and beautiful river Subarnekha flowing by.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/bgImages/RANCHI.jpg";
 
     }
 } else if (state == "Assam") {
@@ -1729,38 +1729,38 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Dance";
+        document.getElementById("content1").innerHTML = "According to the epic Mahabharata and on the basis of local folklore, people of Assam (Kiratas) probably lived in a strong kingdom under the Himalayas in the era before Jesus Christ, which led to early assimilation of various Tibeto-Burman and Autro-Asiatic ethnic groups on a greater scale. Typical naming of the rivers and spatial distribution of related ethno-cultural groups also support this theory. Thereafter, western migrations of Indo-Aryans such as those of various branches of Irano-Scythians and Nordics along with mixed northern Indians (the ancient cultural mix already present in northern Indian states such as Magadha enriched the aboriginal culture and under certain stronger politico-economic systems";
+        document.getElementById("img1").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Assamese_Drama_3.jpg/330px-Assamese_Drama_3.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Festival";
+        document.getElementById("content2").innerHTML = "Bihu is a series of three prominent festivals of Assam. Primarily a festival celebrated to mark the seasons and the significant points of a cultivator's life over a yearly cycle, in recent times the form and nature of celebration have changed with the growth of urban centers. Three Bihus are celebrated: Rongali, celebrated with the coming of spring and the beginning of the sowing season; Kongali, the barren Bihu when the fields are lush but the barns are empty;";
+        document.getElementById("img2").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Assamese_traditional_costumes.jpg/330px-Assamese_traditional_costumes.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Music";
+        document.getElementById("content3").innerHTML = "Assam, being the home to many ethnic groups and different cultures, is rich in folk music. The indigenous folk music has in turn influenced the growth of a modern idiom, that finds expression in the music of such artists are Jyoti Prasad Agarwala, Bishnuprasad Rabha, Parvati Prasad Baruva, Bhupen Hazarika, Nirmalendu Choudhury & Utpalendu Choudhury, Pratima Barua Pandey, Luit Konwar Rudra Baruah, Parvati Prasad Baruva, Jayanta Hazarika, Khagen Mahanta, Beauty Sarma Baruah. Among the new generation Zubeen Garg, Angaraag Mahanta, Kalpana Patowary, Joi Barua, Jitul Sonowal and Manoj Borah are well known.";
+        document.getElementById("img3").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bihu_dance_at_Nagaon.jpg/270px-Bihu_dance_at_Nagaon.jpg";
 
     } else {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Majuli";
+        document.getElementById("content1").innerHTML = "Majuli is a lush green environment-friendly, a pristine and pollution-free freshwater island in the river Brahmaputra, just 20 km from the Jorhat city and located 347 Kms from Guwahati. With a total area of 1250 sq. km, Majuli is the world's largest river island and it attracts tourists from ";
+        document.getElementById("img1").src = "https://www.holidify.com/res/images/patt.png";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Guwahati";
+        document.getElementById("content2").innerHTML = "Famously regarded as the gateway to North-East India, Guwahati is the largest city in the state of Assam. It is also the largest metropolis in the entire North-Eastern region of India, making it the most preferred staging point to other destinations in the region. Sandwiched by the river Brahmaputra";
+        document.getElementById("img2").src = "https://www.holidify.com/images/bgImages/GUWAHATI.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Manas National Park";
+        document.getElementById("content3").innerHTML = "Manas National Park is a UNESCO Natural World Heritage site, a Project Tiger Reserve, an Elephant Reserve and a Biosphere Reserve in Assam. The only tiger reserve in Assam and also famous for the rare golden langur and the red panda, Manas is one of the best-kept national parks in India.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/bgImages/MANAS-NATIONAL-PARK.jpg";
 
     }
 } else if (state == "Punjab") {
@@ -1846,38 +1846,38 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Culture";
+        document.getElementById("content1").innerHTML = "Punjab (/pʌnˈdʒɑːb/ (listen);[6] Punjabi: [pənˈdʒɑːb]) is a state in northern India. Forming part of the larger Punjab region of the Indian subcontinent, the state is bordered by the Indian states of Himachal Pradesh to the north and northeast, Haryana to the south and southeast, and Rajasthan to the southwest; by the Indian union territories of Chandigarh to the east and Jammu and Kashmir to the north. It shares an international border with Punjab, a province of Pakistan to the west.[7] The state covers an area of 50,362 square kilometres (19,445 square miles), which is 1.53% of India's total geographical area,[8] making it the 19th-largest Indian state by area out of 28 Indian states (20th largest, if UTs are considered).";
+        document.getElementById("img1").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg/390px-Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Religion";
+        document.getElementById("content2").innerHTML = "Punjab has the largest population of Sikhs in India and is the only state where Sikhs form a majority, numbering around 16 million forming 57.69% of the state population.[10] Hinduism is the second largest religion in the Indian state of Punjab numbering around 10.68 million and forming 38.49% of the state's population and a majority in Doaba region. Islam is followed by 535,489 accounting 1.93% of the population and are mainly concentrated in Malerkotla and Qadian.";
+        document.getElementById("img2").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Durgiana_Temple%2C_Amritsar.jpg/300px-Durgiana_Temple%2C_Amritsar.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Education";
+        document.getElementById("content3").innerHTML = "Primary and Secondary education is mainly affiliated to Punjab School Education Board. Punjab is served by several institutions of higher education, including 23 universities that provide undergraduate and postgraduate courses in all the major arts, humanities, science, engineering, law, medicine, veterinary science, and business. Reading and writing Punjabi language is compulsory till matriculation for every student[114] failing which the schools attract fine or cancellation of licence.";
+        document.getElementById("img3").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Khalsa_College-Monumentos_de_Amritsar-India16.JPG/330px-Khalsa_College-Monumentos_de_Amritsar-India16.JPG";
 
     } else {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Amritsar";
+        document.getElementById("content1").innerHTML = "Home of the glorious Golden Temple, the iconic city of Amritsar, portrays the heroic character of Punjab.  The second-largest city of the Indian state of Punjab, Amritsar is colloquially known as Ambarsar. Apart from the Golden Temple, Amritsar is known for its lip-smacking street food.";
+        document.getElementById("img1").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Khalsa_College-Monumentos_de_Amritsar-India16.JPG/330px-Khalsa_College-Monumentos_de_Amritsar-India16.JPG";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Patiala";
+        document.getElementById("content2").innerHTML = "The fourth-largest city in the state of Punjab, Patiala is nestled in the southeast of the golden land. Patiala has strong historical and cultural roots, surrounded by architectural marvels and cultural heritage along with being a preferred destination for exploring the core traditions of Punjab.";
+        document.getElementById("img2").src = "https://www.holidify.com/images/bgImages/PATIALA.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Ludhiana";
+        document.getElementById("content3").innerHTML = "Situated on the banks of river Sutlej, Ludhiana, Punjab’s largest city, is one of the biggest manufacturing hubs in India. Also known as Manchester of India, Ludhiana is famous for its hosiery industries, the ancient ruins of the Lodi dynasty and the war museum.";
+        document.getElementById("img3").src = "https://www.holidify.com/images/bgImages/LUDHIANA.jpg";
 
     }
 } else if (state == "Chhattisgarh") {
@@ -1964,38 +1964,38 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Culture";
+        document.getElementById("content1").innerHTML = "Chhattisgarh (/tʃætɪsɡɑːr/, Hindi: [ˈtʃʰət̪ːiːsgəɽʱ]) is a landlocked state in Central India. It is the ninth largest state by area, and with a population of roughly 30 million, the seventeenth most populous.[6] It borders seven states – Uttar Pradesh to the north, Madhya Pradesh to the northwest, Maharashtra to the southwest, Jharkhand to the northeast, Odisha to the east, Telangana and Andhra Pradesh to the south.[7] Formerly a part of Madhya Pradesh, it was granted statehood on 1 November 2000 with Raipur as the designated state capital.";
+        document.getElementById("img1").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_ravishing_beauty_of_Chitrakote_falls.jpg/413px-The_ravishing_beauty_of_Chitrakote_falls.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Festival";
+        document.getElementById("content2").innerHTML = "Chhattisgarh has a significant role in the life of the Lord Rama. Lord Rama along with his wife Sita and his younger brother Lakshmana had started his Vanvas (exile) in the Bastar, then known as Dandakarayna. They lived more than 10 of their 14 years of Vanvas in different places of Chhattisgarh. One of the remarkable places is Shivrinarayan which is nearby Bilaspur district of Chhattisgarh. Shivrinarayan was named after an old lady Shabari. ";
+        document.getElementById("img2").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Raut_Nacha.jpg/330px-Raut_Nacha.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Literature";
+        document.getElementById("content3").innerHTML = "Chhattisgarh is a storehouse of literature, performing arts and crafts—all of which derives its substance and sustenance from the day-to-day life experiences of its people. Religion, mythology, social and political events, nature and folklore are favourite motifs. Traditional crafts include painting, woodcarving, bell metal craft, bamboo ware, and tribal jewellery. Chhattisgarh has a rich literary heritage with roots that lie deep in the sociological and historical movements of the region. Its literature reflects the regional consciousness and the evolution of an identity distinct from others in Central India.";
+        document.getElementById("img3").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sua_Nacha.jpg/330px-Sua_Nacha.jpg";
 
     } else {
         /*set heading of page*/
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Raipur";
+        document.getElementById("content1").innerHTML = "The capital of Chhattisgarh, Raipur is the largest city in the state. With more than hundreds of steel mills and six steel plants, Raipur is also one of the largest industrial centres of the country. Besides steel, it is also home to the aluminium and coal industries. ";
+        document.getElementById("img1").src = "https://www.holidify.com/res/images/patt.png";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Jagdalpur";
+        document.getElementById("content2").innerHTML = "Jagdalpur is a beautiful and naturally bountiful city in the Bastar district of Chhattisgarh and is one of the most popular tourist destinations in the state after Raipur and Bhilai. It is well connected to the state capital and to other nearby cities and is relatively unknown among tourists outside";
+        document.getElementById("img2").src = "https://www.holidify.com/images/bgImages/JAGDALPUR.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Barnawapara wildlife";
+        document.getElementById("content3").innerHTML = "One of the most famous tourist attractions in Chhattisgarh, the Barnawapara Wildlife Sanctuary is home to the Bar and Nawapura forest villages. It was established in the year of 1976 and is spread over a vast area of 245 sq. Km. The rich and lush vegetation caters to a broad spectrum of wildlife";
+        document.getElementById("img3").src = "https://www.holidify.com/images/cmsuploads/compressed/02_20190319180448.jpg";
 
     }
 } else if (state == "Haryana") {
@@ -2082,19 +2082,19 @@ if (state == "Uttar Pradesh") {
         document.getElementById("heading").innerHTML = category + " IN " + state;
 
         /*first paragraph and its img*/
-        document.getElementById("one").innerHTML = "";
-        document.getElementById("content1").innerHTML = "";
-        document.getElementById("img1").src = "";
+        document.getElementById("one").innerHTML = "Culture";
+        document.getElementById("content1").innerHTML = "Hemu claimed royal status after defeating Akbar's Mughal forces on 7 October 1556 in the Battle of Delhi and assumed the ancient title of Vikramaditya. The area that is now Haryana has been ruled by some of the major empires of India. Panipat is known for three seminal battles in the history of India. In the First Battle of Panipat (1526), Babur defeated the Lodis. In the Second Battle of Panipat (1556), Akbar defeated the local Haryanvi Hindu Emperor of Delhi, who belonged to Rewari. Hem Chandra Vikramaditya had earlier won 22 battles across India from Punjab to Bengal, defeating Mughals and Afghans. Hemu had defeated Akbar's forces twice at Agra and the Battle of Delhi in 1556 to become the last Hindu Emperor of India with a formal coronation at Purana Quila in Delhi on 7 October 1556. In the Third Battle of Panipat (1761), the Afghan king Ahmad Shah Abdali defeated the Marathas.";
+        document.getElementById("img1").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sourabh475123_01.jpg/186px-Sourabh475123_01.jpg";
 
         /*second paragraph and its img*/
-        document.getElementById("two").innerHTML = "";
-        document.getElementById("content2").innerHTML = "";
-        document.getElementById("img2").src = "";
+        document.getElementById("two").innerHTML = "Religion";
+        document.getElementById("content2").innerHTML = "According to the 2011 census, of total 25,351,462 population of Haryana, Hindus (87.46%) constitute the majority of the state's population with Muslims (7.03%) (mainly Meos) and Sikhs (4.91%) being the largest minorities.[36] Muslims are mainly found in the Nuh. Haryana has the second largest Sikh population in India after Punjab, and they mostly live in the districts adjoining Punjab, such as Sirsa, Jind, Fatehabad, Kaithal, Kurukshetra, Ambala and Panchkula";
+        document.getElementById("img2").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Maharaja_Hemu_Bhargava_-_Victor_of_Twenty_Two_Pitched_Battles%2C_1910s.jpg/330px-Maharaja_Hemu_Bhargava_-_Victor_of_Twenty_Two_Pitched_Battles%2C_1910s.jpg";
 
         /*third paragraph and its img*/
-        document.getElementById("three").innerHTML = "";
-        document.getElementById("content3").innerHTML = "";
-        document.getElementById("img3").src = "";
+        document.getElementById("three").innerHTML = "Language";
+        document.getElementById("content3").innerHTML = "Punjabi is the most spoken language after Hindi and Haryanvi,[40] and it was recognised as a second official language of Haryana for government and administrative purposes in 2010.[3] There are also many speakers of Urdu in the state. After the state's formation, Telugu was made the state's second language – to be taught in schools – but it was not the second official language for official communication. Due to a lack of students, the language ultimately stopped being taught.[41] Tamil was made the second language in 1969 by Bansi Lal to show the state's differences with Punjab although there were no Tamil speakers in Haryana at the time.[42] In 2010, due to the lack of Tamil speakers, the language was removed from its status.";
+        document.getElementById("img3").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kurukshetra.jpg/336px-Kurukshetra.jpg";
 
     } else {
         /*set heading of page*/
