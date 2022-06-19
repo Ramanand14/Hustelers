@@ -35,3 +35,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+********************************************************************************************************************************
+To execute the file on local device follow these steps,
+1. You can extract the project 
+2. Run the index.html on local device
+3. Select any state
+4. You will be find 6 options, you can select any one option and read the information
+(Note: The proposed project design is just an prototype for the project, due to time limit we have submitted less details there)
+
+
+You can also visit the link https://ramanand14.github.io/Hustelers/ and check the final output
